@@ -25,10 +25,14 @@
 # License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
 START_MESSAGE = """
-👋Hello {mention}..!
-It's Power Full [{name}](t.me/{username}) Here 😎
-Add Me To Your Group And Make Sure I'm an Admin There..!
-And Enjoy My Pever Show..! 🤪"""
+👋𝑯𝑬𝑳𝑳𝑶 {mention}..!
+𝑴𝒀 𝑵𝑨𝑴𝑬 𝑰𝑺 [{name}](t.me/{username}), 𝑰 𝑨𝑴 𝑨 ⚡️ 𝑷𝑶𝑾𝑬𝑹𝑭𝑼𝑳 𝑨𝑼𝑻𝑶𝑭𝑰𝑳𝑻𝑬𝑹 𝑩𝑶𝑻 ⚡️. 𝑯𝑬𝑹𝑬 𝒀𝑶𝑼 𝑪𝑨𝑵 𝑮𝑬𝑻 𝑨𝑳𝑳 𝑴𝑶𝑽𝑰𝑬𝑺.
+
+𝑾𝑶𝑹𝑲 𝑭𝑶𝑹 : @movie_world_grp
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: @UKG_LiZarD .
 
 HELP_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {mention}
@@ -38,7 +42,7 @@ HELP_MESSAGE = """
 ABOUT_MESSAGE = """
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁
 𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : 𝙻𝚄𝙲𝙸𝙵𝙴𝚁
-𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
+𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://t.me/movie_world_grp)
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳](t.me/PR0FESS0R_99)
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}](https://t.me/{username})
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 : {py3_version}
@@ -84,19 +88,19 @@ NOT_SUB = """
 USAGE_MESSAGE = """
 🤠 🄷🄾🅆 🅃🄾 🅄🅂🄴
 
- • [𝙸𝙽𝚃𝚁𝙾](https://youtu.be/zk5Rs3_Cqhw?t=0m00s)
- • [𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂](https://youtu.be/zk5Rs3_Cqhw?t=0m30s)
- • [𝙶𝙴𝚃 𝙰𝙻𝙻 𝙵𝙸𝙻𝙴 𝙲𝙾𝚄𝙽𝚃](https://youtu.be/zk5Rs3_Cqhw?t=1m01s)
- • [𝙳𝙴𝙻𝙴𝚃𝙴 𝙵𝙸𝙻𝙴𝚂](https://youtu.be/zk5Rs3_Cqhw?t=1m25)
- • [𝙱𝙾𝚃 𝙿𝙴𝚁𝙼𝙸𝚂𝚂𝙸𝙾𝙽 & 𝚅𝙸𝙰](https://youtu.be/zk5Rs3_Cqhw?t=3m14s)
- • [𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙻𝙸𝚂𝚃](https://youtu.be/zk5Rs3_Cqhw?t=5m13s)
- • [𝙲𝙾𝙽𝚃𝚁𝙾𝙻 𝙿𝙼 𝙵𝙸𝙻𝚃𝙴𝚁](https://youtu.be/zk5Rs3_Cqhw?t=5m31s)
- • [𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂 & 𝚂𝙴𝚃𝚃𝙸𝙽𝙶𝚂](https://youtu.be/zk5Rs3_Cqhw?t=6m17s)
- • [𝙲𝚄𝚂𝚃𝙾𝙼𝙸𝚉𝚂](https://youtu.be/zk5Rs3_Cqhw?t=9m50s)
+ • [𝙸𝙽𝚃𝚁𝙾](https://t.me/movie_world_grp)
+ • [𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂](https://t.me/movie_world_grp)
+ • [𝙶𝙴𝚃 𝙰𝙻𝙻 𝙵𝙸𝙻𝙴 𝙲𝙾𝚄𝙽𝚃](https://t.me/movie_world_grp)
+ • [𝙳𝙴𝙻𝙴𝚃𝙴 𝙵𝙸𝙻𝙴𝚂](https://t.me/movie_world_grp)
+ • [𝙱𝙾𝚃 𝙿𝙴𝚁𝙼𝙸𝚂𝚂𝙸𝙾𝙽 & 𝚅𝙸𝙰](https://t.me/movie_world_grp)
+ • [𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙻𝙸𝚂𝚃](https://t.me/movie_world_grp)
+ • [𝙲𝙾𝙽𝚃𝚁𝙾𝙻 𝙿𝙼 𝙵𝙸𝙻𝚃𝙴𝚁](https://t.me/movie_world_grp)
+ • [𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂 & 𝚂𝙴𝚃𝚃𝙸𝙽𝙶𝚂](https://t.me/movie_world_grp)
+ • [𝙲𝚄𝚂𝚃𝙾𝙼𝙸𝚉𝚂](https://t.me/movie_world_grp)
 
-× [𝙷𝚘𝚠 𝚃𝚘 𝚂𝚎𝚝 𝙼𝚎𝚗𝚞 𝙱𝚞𝚝𝚝𝚘𝚗](https://youtu.be/k1QQuZke56s)
+× [𝙷𝚘𝚠 𝚃𝚘 𝚂𝚎𝚝 𝙼𝚎𝚗𝚞 𝙱𝚞𝚝𝚝𝚘𝚗](https://t.me/movie_world_grp)
 
-× [𝙷𝚘𝚠 𝚃𝚘 𝙲𝚛𝚎𝚊𝚝𝚎 𝚃𝚑𝚒𝚜 𝚃𝚢𝚙𝚎 𝙾𝚏 𝙱𝚘𝚝](https://youtu.be/gdz9PAGwEns)
+× [𝙷𝚘𝚠 𝚃𝚘 𝙲𝚛𝚎𝚊𝚝𝚎 𝚃𝚑𝚒𝚜 𝚃𝚢𝚙𝚎 𝙾𝚏 𝙱𝚘𝚝](https://t.me/movie_world_grp)
 
 × 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙳𝙴𝙿𝙻𝙾𝚈𝙴𝙳 𝙱𝚈
   - [{}](t.me/{})"""
